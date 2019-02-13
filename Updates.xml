@@ -1,0 +1,16 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>1.0</Name>
+  <DisplayName>LBX_Editor</DisplayName>
+  <Description>LBX Control Application.</Description>
+  <Version>1.0.0-1</Version>
+  <ReleaseDate>2018-03-31</ReleaseDate>
+  <Default>true</Default>
+  <UpdateFile UncompressedSize="955456062" CompressedSize="158354057" OS="Any"/>
+  <DownloadableArchives>bearer.7z,iconengines.7z,imageformats.7z,Images.7z,platforms.7z,styles.7z,translations.7z,content.7z</DownloadableArchives>
+  <SHA1>8f24af0cdc55d61e08aef533f0b37465310c8fbc</SHA1>
+ </PackageUpdate>
+</Updates>
