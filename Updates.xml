@@ -3,7 +3,7 @@
  <ApplicationVersion>1.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
  <PackageUpdate>
-  <Name>V1.0/1.0</Name>
+  <Name>V1.0</Name>
   <DisplayName>LBX_Editor</DisplayName>
   <Description>LBX Control Application.</Description>
   <Version>1.0.0-1</Version>
